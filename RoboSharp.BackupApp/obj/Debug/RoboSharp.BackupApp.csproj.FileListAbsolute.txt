@@ -13,3 +13,6 @@ D:\Users\terry\Source\Repos\RoboSharp\RoboSharp.BackupApp\obj\Debug\RoboSharp.Ba
 D:\Users\terry\Source\Repos\RoboSharp\RoboSharp.BackupApp\obj\Debug\RoboSharp.BackupApp.csproj.GenerateResource.Cache
 D:\Users\terry\Source\Repos\RoboSharp\RoboSharp.BackupApp\obj\Debug\RoboSharp.BackupApp.exe
 D:\Users\terry\Source\Repos\RoboSharp\RoboSharp.BackupApp\obj\Debug\RoboSharp.BackupApp.pdb
+C:\Users\Jim\Source\Repos\RoboSharp\RoboSharp.BackupApp\bin\Debug\RoboSharp.BackupApp.exe.config
+C:\Users\Jim\Source\Repos\RoboSharp\RoboSharp.BackupApp\obj\Debug\RoboSharp.BackupApp.exe
+C:\Users\Jim\Source\Repos\RoboSharp\RoboSharp.BackupApp\obj\Debug\RoboSharp.BackupApp.pdb
